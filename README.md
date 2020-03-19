@@ -11,12 +11,7 @@
 
 ## INSTALLATION
 	The script doesn't need to be "installed" but it is nice to put
-	it on your PATH somewhere.  Your curl program must be on your
-	PATH, as well, if you use linuz version.
-
-## DEPENDENCIES FOR LINUX
-	BASH <http://www.gnu.org/software/bash/>
-	cURL <http://curl.haxx.se/>
+	it on your PATH somewhere.
 
 ## DEPENDENCIES FOR WINDOWS
 	None
@@ -26,6 +21,7 @@
 		- Some console informations
 		- Writing results to file
 		- When large date range, wait 2 mitues when receive 20 hits reached message
+		- Removed linux version (I am not able to maintain the linux version)
 
 	0.1 - Base code
 
