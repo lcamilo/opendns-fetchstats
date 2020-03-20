@@ -18,10 +18,10 @@
 
 ## VERSION
 	0.2 - Some corrections to work with actual opendns site
-		- Some console informations
-		- Writing results to file
-		- When large date range, wait 2 mitues when receive 20 hits reached message
-		- Removed linux version (I am not able to maintain the linux version)
+	    - Some console informations
+	    - Writing results to file
+	    - When large date range, wait 2 mitues when receive 20 hits reached message
+	    - Removed linux version (I am not able to maintain the linux version)
 
 	0.1 - Base code
 
